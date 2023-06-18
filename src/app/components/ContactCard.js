@@ -9,6 +9,7 @@ const ContactCard = () => {
                 <div className={styles.grid}>
                     <div className={styles.grid_card}>
                         <i> <MdEmail /> </i>
+    
                         <h2>Email</h2>
                         <p>Monday to Friday Expected </p>
                         <p className={styles.last_para}>response time: 72 hours </p>
